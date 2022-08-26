@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🔭 I’m currently working on reTerm
+- 🔭 I’m currently working on reTerm and GRAMANA
 - 🌱 I’m currently learning Typescript, NextJS, React Native, and Vim.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: ecuojackie@gmail.com
